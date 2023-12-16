@@ -1,0 +1,63 @@
+.inu{
+
+margin-top: 30px;
+width: 70%;
+margin-left: 20px;
+padding: 5px;
+padding-left: 10px;
+border-radius: 10px;
+
+font-size: 20px ;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#butto{
+    width: 70%;
+    margin-top: 30px;
+text-align: center;
+border-radius: 5px;
+
+background-color: rgb(0, 0, 0);
+font-weight: bold;
+color: white;
+border: 1px solid rgb(176, 176, 177);
+padding: 8px;
+margin-left: 50px;
+
+}
+.olpl{
+
+width: 48%;
+font-size: 20px;
+text-align: center;
+
+border-radius: 10px;
+background-color:transparent;
+
+color: white;
+
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.inu:hover{
+    color: white;
+    background-color: rgb(4, 9, 36);
+}
+.inu::placeholder{
+    color: rgb(189, 170, 170);
+}
+
+.hju{
+    font-weight: bold;
+    
+    padding: 20px;
+    margin: auto;
+    height: 500px;
+    width: 50%;
+   
+   border-radius: 5px;
+    color: white;
+    transition-property: all;
+    opacity: 0.87;
+    background-color: black;
+
+}

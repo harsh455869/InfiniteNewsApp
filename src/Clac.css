@@ -1,0 +1,22 @@
+.btn{
+    height: 50px;
+    width: 70px;
+    margin: 10px;
+}
+.con{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 8px;
+    height: 400px;
+    width: 500px;
+    border: 2px solid black;
+    margin: auto;
+}
+.result{
+    height: 70px;
+    width: 480px;
+    margin: auto;
+    border:2px solid black;
+    font-size: 70px;
+}
